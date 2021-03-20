@@ -4,8 +4,8 @@
     João Marcos Carvalho
     Email: joaomarcosribeiroc@gmail.com
     URI: [
-        https://joaocarvalhor.github.io/resume-developer/pt-br,
-        https://joaocarvalhor.github.io/resume-developer/en-US
+        https://joaomarcosribeiroc.github.io/resume-developer/resume-dev-en-us.html,
+        https://joaomarcosribeiroc.github.io/resume-developer/resume-dev-pt-br.html
     ]
     Alias: @joaomarcosribeiroc
 
